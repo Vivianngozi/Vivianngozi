@@ -19,4 +19,35 @@
 <b>✅ Incident Response & Threat Detection</b></br>
 <b>✅ Secure Software Development (DevSecOps Learning)</b></br>
 <b>✅ Scripting & Automation (Python)</b></br>
-✅ Cloud Security Basics
+<b>✅ Cloud Security Basics</b>
+
+## 📂 Featured Projects  
+Here are some hands-on projects I’ve worked on:  
+
+🔹<b>Vulnhub machines</b> - Real-world Vulnerability assessment and Incident Response Simulation
+  
+  - [kioptrix 1](https://github.com/Vivianngozi/Vulnhub-Machines/blob/main/Kioptrix%201.pdf)
+  
+  - [kioptrix 1.1](https://github.com/Vivianngozi/Vulnhub-Machines/blob/main/kioptrix_1.1.pdf)
+    
+🔹<b>Trojan Malware Case Study</b> - Development, Deployment & Incident Response
+  - [windows 8.1 Trojan attack](https://github.com/Vivianngozi/Trojan-Attack)
+
+🔹<b>Password Strength Checker</b> - Detecting Weak Credentials in Systems
+  - [password checker](https://github.com/Vivianngozi/password-strength-checker)
+
+More projects can be found in my **[Repositories](https://github.com/Vivianngozi?tab=repositories)**!  
+
+---
+
+## 📢 Cybersecurity Content & Resources  
+📌 **Follow me on LinkedIn** → [LinkedIn Profile](https://www.linkedin.com/in/ngozi-vivian-orji)  
+📌 **Watch my short cybersecurity tips** → [TikTok(@TalkCyberWithVivian)](https://www.tiktok.com/@talkcyberwithvivian?_t=ZM-8tnLHn6c5bh&_r=1)  
+
+I share cybersecurity tutorials, career tips, and project breakdowns!  
+
+---
+
+## 📩 Get in Touch  
+💌 **Email:** [orjiviviana@gmail.com](mailto:orjiviviana@gmail.com)  
+💬 **Let’s connect & discuss cybersecurity!**
